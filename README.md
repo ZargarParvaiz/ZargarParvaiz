@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @ZargarParvaiz Your AI editor and creator.
+# 👋 Hi, I’m @ZargarParvaiz Your AI developer.
 
 Welcome to my GitHub profile! I'm a tech enthusiast passionate about creating meaningful, efficient, and scalable solutions.
 
